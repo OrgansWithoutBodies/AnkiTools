@@ -1,0 +1,1 @@
+This repo is a suite of tools I use to generate anki cards from either books, CSVs, or iTalki chats. It also includes a script to auto-translate a list of given words to be then put into anki. Flaky but works generally
